@@ -38,7 +38,7 @@ Create a transaction form based on the following template.
 
 ## Demo
 
-[Live Demo](https://switcheo-code-challenge.vercel.app/)
+[Live Demo](https://eth-transfer-form-jaydenteoh.vercel.app/)
 
 
 ## Languages & Tools
