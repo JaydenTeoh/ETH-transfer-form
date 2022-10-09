@@ -56,7 +56,7 @@ Create a transaction form based on the following template.
   
 ### API
   * CoinMarketAPI to receive real-time price of ETH
-  * Axis to make API requests to get the information of ETH currency
+  * Axios to make API requests to get the information of ETH currency
   
 ## Approach
  
